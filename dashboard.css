@@ -29,22 +29,22 @@ h1{
 
 .nameplate{
     position:relative;
-    top: 350px;
-    left: 750px;
+    top: 200px;
+    left: 780px;
 } 
 .tides{
 	position: absolute;
-	top: 120px;
+	top: 20px;
     left: 0px;
 	background-image: none;
     width: 100%;
-	opacity: 50%;
+	opacity: 25%;
 }
 
 .stars{
 	position: absolute;
     width: 100%;
-        opacity: 50%;
+        opacity: 80%;
     }
     
 .image-1{
@@ -54,7 +54,7 @@ h1{
 .aboutme {
     position: inherit;
     color: white;
-    top: -150px;
+    top: -105px;
     width: 30%;
     left: 200px;
     font-weight: 10;
