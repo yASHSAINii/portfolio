@@ -1,8 +1,62 @@
+body{
+    overflow-x: hidden;
+}
+
 .image-1 img{
     width: 100%;
     height: auto;
     
 }
 html{
-    background-color: rgb(1, 1, 46);
+    background-color: rgb(3, 0, 16);
+}
+h1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 150;
+    font-style: normal;
+    font-size: x-large;
+    color: azure;
+}
+
+ #namestyle{
+    font-family: "Bahianita", sans-serif;
+  font-weight: 10;
+  font-style: normal;
+    color: whitesmoke;
+    font-size: 470%;
+} 
+
+.nameplate{
+    position:relative;
+    top: 350px;
+    left: 750px;
+} 
+.tides{
+	position: absolute;
+	top: 120px;
+    left: 0px;
+	background-image: none;
+    width: 100%;
+	opacity: 50%;
+}
+
+.stars{
+	position: absolute;
+    width: 100%;
+        opacity: 50%;
+    }
+    
+.image-1{
+    position: relative;
+}    
+
+.aboutme {
+    position: inherit;
+    color: white;
+    top: -150px;
+    width: 30%;
+    left: 200px;
+    font-weight: 10;
+    font-size: 150%;
 }
