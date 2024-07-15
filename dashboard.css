@@ -29,8 +29,8 @@ h1{
 
 .nameplate{
     position:relative;
-    top: 200px;
-    left: 50%;
+    top : 200px;
+    left: 50px;
 } 
 .tides{
 	position: absolute;
@@ -54,9 +54,9 @@ h1{
 .aboutme {
     position: inherit;
     color: white;
-    top: -105px;
+    
     width: 30%;
-    left: 10%;
+   
     font-weight: 10;
-    font-size: 150%;
+    font-size:medium;
 }
