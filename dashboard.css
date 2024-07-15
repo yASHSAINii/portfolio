@@ -1,6 +1,6 @@
-body{
+/* body{
     overflow-x: hidden;
-}
+} */
 
 .image-1 img{
     width: 100%;
@@ -24,13 +24,13 @@ h1{
   font-weight: 10;
   font-style: normal;
     color: whitesmoke;
-    font-size: 470%;
+    font-size: 200%;
 } 
 
 .nameplate{
     position:relative;
     top: 200px;
-    left: 780px;
+    left: 50%;
 } 
 .tides{
 	position: absolute;
@@ -56,7 +56,7 @@ h1{
     color: white;
     top: -105px;
     width: 30%;
-    left: 200px;
+    left: 10%;
     font-weight: 10;
     font-size: 150%;
 }
