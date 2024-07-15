@@ -1,6 +1,6 @@
-/* body{
+body{
     overflow-x: hidden;
-} */
+} 
 
 .image-1 img{
     width: 100%;
@@ -29,8 +29,10 @@ h1{
 
 .nameplate{
     position:relative;
-    top : 200px;
-    left: 50px;
+    top : 100px;
+    left: 5%;
+    max-width: 360px;
+    max-height: 400px;
 } 
 .tides{
 	position: absolute;
@@ -52,11 +54,11 @@ h1{
 }    
 
 .aboutme {
-    position: inherit;
+    position: relative;
     color: white;
-    
-    width: 30%;
-   
+    border: 0px;
+    width: 60%;
+
     font-weight: 10;
     font-size:medium;
 }
