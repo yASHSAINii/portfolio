@@ -29,9 +29,9 @@ h1{
 
 .nameplate{
     position:relative;
-    top : 100px;
+    top : 170px;
     left: 5%;
-    max-width: 360px;
+    max-width: 100%;
     max-height: 400px;
 } 
 .tides{
@@ -57,8 +57,8 @@ h1{
     position: relative;
     color: white;
     border: 0px;
-    width: 60%;
-
+    max-width: 90%;
+    
     font-weight: 10;
     font-size:medium;
 }
